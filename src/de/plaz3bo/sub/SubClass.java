@@ -10,5 +10,9 @@ package de.plaz3bo.sub;
  * @author KrostaA
  */
 public class SubClass {
+
+    public SubClass() {
+        System.out.println("Initalisiert");
+    }
     
 }

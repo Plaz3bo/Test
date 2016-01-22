@@ -5,12 +5,15 @@
  */
 package de.plaz3bo.start;
 
+import de.plaz3bo.sub.SubClass;
+
 /**
  *
  * @author KrostaA
  */
 public class Start {
     public static void main(String[] args) {
+        SubClass sub = new SubClass();
         
     }
 }
